@@ -1,0 +1,5 @@
+.env
+.env.template
+dist
+node_modules
+mongo
