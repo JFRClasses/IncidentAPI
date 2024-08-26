@@ -11,7 +11,7 @@ services:
     environment:
       MONGO_URL: ${MONGO_URL}
       PORT: ${PORT}
-      MONGO_DB: ${MONGO_DB}
+      MONGO_DB: 
 
   mongo:
     image: mongo:latest

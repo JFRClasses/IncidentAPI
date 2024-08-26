@@ -1,6 +1,5 @@
 import express from "express";
 import cors from "cors";
-import "dotenv/config";
 
 import { AppRoutes } from "./presentation/routes";
 import { envs } from "./config/envs.plugin";
